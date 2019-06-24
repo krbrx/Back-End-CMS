@@ -1,0 +1,215 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #FBFFFE;
+    margin: 0px;
+}
+
+.header{
+    background-color: #FAA916;
+    padding: 20px 0px 3px 15px;
+    font-size: 28px;
+    color: white;
+}
+
+.logout{
+    float:right;
+    padding: 0 5px 0 5px;
+    font-size: 22px;
+    color: #E2E2E2;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+#biggerHome{
+    text-align: center;
+    padding: 120px 0 0 0;
+}
+
+#home{
+    display: inline-block;
+    text-align: center;
+    border: 1.5px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 25px 20px;
+}
+
+#login{
+    background-color: #F1F1F1;
+    border: 2px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 30px 20px;
+}
+
+.input{
+    border-color: #96031A;
+    border-radius: 20px;
+}
+
+#lUsername{
+    padding: 5px 20px 5px 20px;
+    width: 360px;
+}
+
+.button{
+    background-color: #96031A;
+    border-radius: 22px;
+    padding: 7px 21px 7px 21px;
+    color: white;
+}
+
+#lButton{
+    margin-top: 23px;
+}
+
+.AD{
+    color: #96031A;
+    font-size: 22px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.title{
+    text-align: left;
+    float: left;
+}
+
+h2 {
+    display: inline;
+}
+
+.border{
+    text-align: center;
+    padding: 30px 50px 0 50px;
+    margin-right: 0;
+}
+
+.inBorder{
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 30px;
+    padding: 10px 20px 80px 20px;
+}
+
+.homeBorder{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 30px;
+    padding: 10px 12px 25px 12px;
+}
+
+.admin{
+    display: inline-block;
+    background-color: #F1F1F1;
+    border: 2px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 30px 20px;
+    width: 500px;
+    height:200px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom:15px;
+}
+
+#adminMid{
+    display: inline-block;
+    background-color: #F1F1F1;
+    border: 2px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 30px 20px;
+    width: 500px;
+    height:200px;
+    margin-top: 20px;
+    margin-bottom:15px
+}
+
+#continue{
+    float: bottom;
+    margin-top: 50px;
+}
+
+#quiz{
+    display: inline-block;
+    background-color: #F1F1F1;
+    border: 2px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 30px 20px;
+    width: 1300px;
+    height:200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom:15px;
+    float: left;
+}
+
+#question{
+    background-color: white;
+    text-align: left;
+    padding: 15px 20px 50px 20px;
+    border: 2px solid #96031A;
+    border-radius: 30px;
+}
+
+.editButton{
+    float: right;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+
+.edit{
+    background-color: #F1F1F1;
+    border: 2px solid grey;
+    border-radius: 40px;
+    padding: 10px 20px 0px 20px;
+    margin-top: 20px;
+}
+
+.Table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.Table td, .Table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.Table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.Table tr:hover {
+    background-color: #ddd;
+}
+
+.Table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FAA916;
+    color: white;
+    height: 10px;
+}
+
+.Save{
+    float: right;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+.List{
+    width: 100%;
+}
+
+.error{
+    color: red;
+    font-weight: bolder;
+}
+
+h5,h3{
+    margin: 0px;
+}
